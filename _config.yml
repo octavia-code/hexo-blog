@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
-keywords:
-author: John Doe
-language: en
-timezone: ''
+title: 林中小屋
+subtitle: 'build by wr'
+description: '一个普通人的博客'
+keywords: '小说 杂谈 牢骚'
+author: 林
+language: zh-CN
+timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://octavia.gitlab.io
+url: https://therui.netlify.app
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -26,7 +26,7 @@ public_dir: public
 tag_dir: tags
 archive_dir: archives
 category_dir: categories
-code_dir: downloads/code
+favode_dir: downloads/code
 i18n_dir: :lang
 skip_render:
 
@@ -96,7 +96,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: butterfly
+theme: hexo-theme-matery
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
