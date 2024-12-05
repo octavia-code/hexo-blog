@@ -67,7 +67,7 @@ dream:
   enable: true
   showTitle: true
   title: 作者的话
-  text: 人生是一场盛大的美妙幻觉
+  text: 欢迎来到我的小屋~~~❤
 
 # Whether to display the musics.
 # 是否在首页显示音乐.
@@ -203,9 +203,9 @@ clicklove:
 # profile in about page, including avatars, career, and personal introductions.
 # 在”关于”页面中配置个人信息，包括头像、职业和个人介绍.
 profile:
-  avatar: /medias/avatar.jpg
-  career: Software Engineer
-  introduction: If you wish to succeed, you should use persistence as your good friend, experience as your reference, prudence as your brother and hope as your sentry.
+  avatar: /medias/wx_avatar.jpg
+  career: 软件工程师👉居家全职儿子👉运维工程师
+  introduction: 爱玩游戏爱睡觉
 
 # config my projects informations in about page.
 # If you don't want to display this `My Projects` content, you can deactivate or delete this configuration.
