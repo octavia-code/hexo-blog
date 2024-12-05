@@ -4,12 +4,18 @@
 
 # Site
 title: 林中小屋
-subtitle: build by wr
+subtitle: 人生是一场盛大的美妙幻觉
 description: '一个普通人的博客'
 keywords: '小说 杂谈 牢骚'
 author: 林
 language: zh-CN
 timezone: 'Asia/Shanghai'
+
+#搜索
+search:
+  path: search.xml
+  field: post
+
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
